@@ -1,0 +1,7 @@
+#AES.keyValue used as secret key to encrypt or decrypt the passwords. It should be 16 Characters if no value is provided default will be sumtotalexpense!
+AES.keyValue=sumtotalexpense$
+#Mode it is used for encryption/decryption mode use e for encryption, d for decryption
+mode=e
+#orignalValues are list of values which need to encrypted/decrypted
+#originalValues=titan#12,titan#12,pass.1word,titan#12
+originalValues=JLpTR0X1NPrP1dKUx0r8lw==,JLpTR0X1NPrP1dKUx0r8lw==,JuK2txXVgkfefbb8mRAZLQ==,JLpTR0X1NPrP1dKUx0r8lw==
